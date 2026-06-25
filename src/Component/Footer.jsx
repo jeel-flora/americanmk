@@ -53,7 +53,7 @@ function Footer() {
                   <p className="mt-4 p" style={{ fontSize: "14px" }}>
                     Enjoy the largest collection of trending online games on a smooth, user friendly <br /> platform. Play across all devices for fun, relaxation, and stress relief. Simply open your <br /> game, start playing instantly, and enjoy nonstop entertainment anytime, anywhere.
                   </p>
-                   <div className="mb-3 d-flex gap-3 mx-auto">
+                   {/* <div className="mb-3 d-flex gap-3 mx-auto">
                     <div className="social-div">
                       <Link
                         to="https://www.facebook.com/profile.php?id=61589051350653"
@@ -86,7 +86,7 @@ function Footer() {
                         <img src={email} alt="" />
                       </a>
                     </div>
-                  </div> 
+                  </div>  */}
                 </div>
               </Col>
               
