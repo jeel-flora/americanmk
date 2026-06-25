@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnClose": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnClose0000","x":-13.3,"y":-13.3}
+		]
+	}
+},
+"res": {
+	"btnClose0000":{"x":0,"y":0,"w":28,"h":28}
+}
+}

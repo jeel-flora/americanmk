@@ -1,0 +1,1 @@
+No Content: https://games.vancedgames.com/games/royal_solitaire/sw.js

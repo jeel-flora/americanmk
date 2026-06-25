@@ -1,0 +1,33 @@
+{
+  "short_name": "americanmk",
+  "name": "Free Online Games at americanmk!Play Now!",
+  "description": "Play the latest online games for free. Enjoy action, adventure, puzzle, and more with no downloads. Start playing instantly!",
+  "icons": [
+     {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "favicon-192x192.png",
+      "type": "image/png", 
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

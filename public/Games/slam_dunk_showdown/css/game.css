@@ -1,0 +1,13 @@
+@font-face {
+    font-family: myFont1;
+    src: url(stan0753.ttf);
+}
+
+/*
+// performance issue
+
+@font-face {
+    font-family: HelveticaNeueBold;
+    src: url(HelveticaNeue-CondensedBold.otf);
+}
+*/

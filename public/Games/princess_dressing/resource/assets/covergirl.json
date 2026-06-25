@@ -1,0 +1,15 @@
+{
+"mc": {
+	"covergirl": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"covergirl0000","x":-188.2,"y":-440.8}
+		]
+	}
+},
+"res": {
+	"covergirl0000":{"x":0,"y":0,"w":528,"h":886}
+}
+}

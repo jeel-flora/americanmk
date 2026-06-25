@@ -1,0 +1,955 @@
+{
+  "resources": [],
+  "spritemap": {
+    "/music/gumball_music_LOOP": {
+      "start": 0,
+      "end": 64.71907029478459,
+      "loop": false
+    },
+    "/sfx_Bigger_Coins/sfx_Bigger_Coins": {
+      "start": 65.1,
+      "end": 65.34845804988662,
+      "loop": false
+    },
+    "/sfx_Bricks_Fall/sfx_Bricks_Fall_01": {
+      "start": 66.19999999999999,
+      "end": 66.42074829931971,
+      "loop": false
+    },
+    "/sfx_Bricks_Fall/sfx_Bricks_Fall_02": {
+      "start": 67.29999999999998,
+      "end": 67.51526077097503,
+      "loop": false
+    },
+    "/sfx_Bricks_Fall/sfx_Bricks_Fall_03": {
+      "start": 68.39999999999998,
+      "end": 68.60977324263037,
+      "loop": false
+    },
+    "/sfx_Bricks_Fall/sfx_Bricks_Fall_04": {
+      "start": 69.49999999999999,
+      "end": 69.7154648526077,
+      "loop": false
+    },
+    "/sfx_Bricks_Fall/sfx_Bricks_Fall_05": {
+      "start": 70.59999999999998,
+      "end": 70.85455782312923,
+      "loop": false
+    },
+    "/sfx_Bricks_Fall/sfx_Bricks_Fall_06": {
+      "start": 71.69999999999997,
+      "end": 71.95700680272107,
+      "loop": false
+    },
+    "/sfx_Coin/sfx_Coin": {
+      "start": 72.79999999999998,
+      "end": 73.00385487528342,
+      "loop": false
+    },
+    "/sfx_Fall_Off_Cliff/sfx_Fall_Off_Cliff": {
+      "start": 73.89999999999998,
+      "end": 75.67419501133784,
+      "loop": false
+    },
+    "/sfx_Game_Over_Bricks_Fall_Down/sfx_Game_Over_Bricks_Fall_Down": {
+      "start": 75.99999999999997,
+      "end": 77.78621315192741,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_01": {
+      "start": 78.09999999999998,
+      "end": 78.32632653061222,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_02": {
+      "start": 79.19999999999997,
+      "end": 79.43984126984124,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_03": {
+      "start": 80.29999999999997,
+      "end": 80.49963718820858,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_04": {
+      "start": 81.39999999999996,
+      "end": 81.57999999999997,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_05": {
+      "start": 82.49999999999997,
+      "end": 82.63471655328796,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_06": {
+      "start": 83.59999999999998,
+      "end": 83.71365079365077,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_07": {
+      "start": 84.69999999999997,
+      "end": 84.85126984126981,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_08": {
+      "start": 85.79999999999997,
+      "end": 85.95104308390019,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_09": {
+      "start": 86.89999999999996,
+      "end": 87.11083900226754,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_10": {
+      "start": 87.99999999999997,
+      "end": 88.22029478458047,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_11": {
+      "start": 89.09999999999998,
+      "end": 89.28317460317459,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_12": {
+      "start": 90.19999999999999,
+      "end": 90.35265306122447,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_13": {
+      "start": 91.29999999999998,
+      "end": 91.45342403628116,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_14": {
+      "start": 92.39999999999998,
+      "end": 92.592925170068,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_15": {
+      "start": 93.49999999999997,
+      "end": 93.74258503401357,
+      "loop": false
+    },
+    "/sfx_Jump/sfx_Jump_16": {
+      "start": 94.59999999999997,
+      "end": 94.82752834467117,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_01": {
+      "start": 95.69999999999996,
+      "end": 95.92206349206346,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_010": {
+      "start": 96.79999999999997,
+      "end": 97.00569160997729,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_011": {
+      "start": 97.89999999999996,
+      "end": 98.10390022675733,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_012": {
+      "start": 98.99999999999996,
+      "end": 99.20335600907025,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_013": {
+      "start": 100.09999999999995,
+      "end": 100.28170068027207,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_014": {
+      "start": 101.19999999999996,
+      "end": 101.42265306122445,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_015": {
+      "start": 102.29999999999997,
+      "end": 102.52541950113375,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_016": {
+      "start": 103.39999999999996,
+      "end": 103.61514739229021,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_02": {
+      "start": 104.49999999999996,
+      "end": 104.72501133786844,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_03": {
+      "start": 105.59999999999995,
+      "end": 105.79333333333328,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_04": {
+      "start": 106.69999999999995,
+      "end": 106.89736961451241,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_05": {
+      "start": 107.79999999999994,
+      "end": 107.98671201814054,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_06": {
+      "start": 108.89999999999995,
+      "end": 109.06419501133782,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_07": {
+      "start": 109.99999999999994,
+      "end": 110.18938775510199,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_08": {
+      "start": 111.09999999999995,
+      "end": 111.28682539682535,
+      "loop": false
+    },
+    "/sfx_Jump_Anais/sfx_Jump_Anais_09": {
+      "start": 112.19999999999995,
+      "end": 112.39698412698408,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_01": {
+      "start": 113.29999999999995,
+      "end": 113.43709750566889,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_02": {
+      "start": 114.39999999999995,
+      "end": 114.52390022675732,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_03": {
+      "start": 115.49999999999994,
+      "end": 115.6545578231292,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_04": {
+      "start": 116.59999999999994,
+      "end": 116.76222222222216,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_05": {
+      "start": 117.69999999999995,
+      "end": 117.85362811791377,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_06": {
+      "start": 118.79999999999994,
+      "end": 118.97020408163259,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_07": {
+      "start": 119.89999999999993,
+      "end": 120.04253968253961,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_08": {
+      "start": 120.99999999999993,
+      "end": 121.11795918367339,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_09": {
+      "start": 122.09999999999992,
+      "end": 122.28086167800446,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_10": {
+      "start": 123.19999999999992,
+      "end": 123.38573696145116,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_11": {
+      "start": 124.29999999999991,
+      "end": 124.444648526077,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_12": {
+      "start": 125.3999999999999,
+      "end": 125.5423582766439,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_13": {
+      "start": 126.4999999999999,
+      "end": 126.63077097505659,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_14": {
+      "start": 127.59999999999991,
+      "end": 127.77941043083891,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_15": {
+      "start": 128.6999999999999,
+      "end": 128.81360544217677,
+      "loop": false
+    },
+    "/sfx_Jump_Carrie/sfx_Jump_Carrie_16": {
+      "start": 129.7999999999999,
+      "end": 129.90469387755093,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_01": {
+      "start": 130.8999999999999,
+      "end": 131.08938775510194,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_02": {
+      "start": 131.9999999999999,
+      "end": 132.204648526077,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_03": {
+      "start": 133.0999999999999,
+      "end": 133.2625396825396,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_04": {
+      "start": 134.1999999999999,
+      "end": 134.34539682539673,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_05": {
+      "start": 135.2999999999999,
+      "end": 135.44591836734685,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_06": {
+      "start": 136.39999999999992,
+      "end": 136.52954648526068,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_07": {
+      "start": 137.49999999999991,
+      "end": 137.65968253968245,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_08": {
+      "start": 138.5999999999999,
+      "end": 138.80750566893414,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_09": {
+      "start": 139.6999999999999,
+      "end": 139.88378684807248,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_10": {
+      "start": 140.79999999999993,
+      "end": 140.98752834467112,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_11": {
+      "start": 141.89999999999992,
+      "end": 142.06138321995456,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_12": {
+      "start": 142.99999999999991,
+      "end": 143.1643083900226,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_13": {
+      "start": 144.0999999999999,
+      "end": 144.2968253968253,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_14": {
+      "start": 145.1999999999999,
+      "end": 145.4395918367346,
+      "loop": false
+    },
+    "/sfx_Jump_Darwin/sfx_Jump_Darwin_15": {
+      "start": 146.2999999999999,
+      "end": 146.48913832199537,
+      "loop": false
+    },
+    "/sfx_Jump_Destroy_Bricks/sfx_Jump_Hit_Bricks_Destroy_01": {
+      "start": 147.3999999999999,
+      "end": 148.4217687074829,
+      "loop": false
+    },
+    "/sfx_Jump_Destroy_Bricks/sfx_Jump_Hit_Bricks_Destroy_02": {
+      "start": 149.49999999999991,
+      "end": 150.99675736961441,
+      "loop": false
+    },
+    "/sfx_Jump_Hit_Bricks/sfx_Jump_Hit_Bricks_01": {
+      "start": 151.5999999999999,
+      "end": 152.33408163265298,
+      "loop": false
+    },
+    "/sfx_Jump_Hit_Bricks/sfx_Jump_Hit_Bricks_02": {
+      "start": 152.69999999999993,
+      "end": 153.26160997732418,
+      "loop": false
+    },
+    "/sfx_Jump_Hit_Bricks/sfx_Jump_Hit_Bricks_03": {
+      "start": 153.79999999999993,
+      "end": 154.9489569160997,
+      "loop": false
+    },
+    "/sfx_Jump_Hit_Bricks/sfx_Jump_Hit_Bricks_04": {
+      "start": 155.89999999999992,
+      "end": 156.8044897959183,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_01": {
+      "start": 156.99999999999994,
+      "end": 157.22358276643985,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_010": {
+      "start": 158.09999999999994,
+      "end": 158.31034013605435,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_011": {
+      "start": 159.19999999999993,
+      "end": 159.4061904761904,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_012": {
+      "start": 160.29999999999993,
+      "end": 160.50859410430832,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_013": {
+      "start": 161.39999999999992,
+      "end": 161.6035374149659,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_014": {
+      "start": 162.49999999999991,
+      "end": 162.72269841269832,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_015": {
+      "start": 163.5999999999999,
+      "end": 163.83231292517,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_016": {
+      "start": 164.69999999999993,
+      "end": 164.87192743764166,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_02": {
+      "start": 165.79999999999993,
+      "end": 166.03045351473915,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_03": {
+      "start": 166.89999999999992,
+      "end": 167.1028344671201,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_04": {
+      "start": 167.99999999999991,
+      "end": 168.19310657596364,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_05": {
+      "start": 169.0999999999999,
+      "end": 169.3035374149659,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_06": {
+      "start": 170.1999999999999,
+      "end": 170.4085941043083,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_07": {
+      "start": 171.2999999999999,
+      "end": 171.4935827664398,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_08": {
+      "start": 172.3999999999999,
+      "end": 172.58684807256225,
+      "loop": false
+    },
+    "/sfx_Jump_Richard/sfx_Jump_Richard_09": {
+      "start": 173.4999999999999,
+      "end": 173.70283446712006,
+      "loop": false
+    },
+    "/sfx_Respawn/sfx_Respawn": {
+      "start": 174.59999999999988,
+      "end": 174.89573696145112,
+      "loop": false
+    },
+    "/sfx_Spring_Jump/sfx_Spring_Jump_01": {
+      "start": 175.69999999999987,
+      "end": 177.32102040816315,
+      "loop": false
+    },
+    "/sfx_Spring_Jump/sfx_Spring_Jump_02": {
+      "start": 177.7999999999999,
+      "end": 179.3361678004534,
+      "loop": false
+    },
+    "/sfx_Start_Level/sfx_Start_Level": {
+      "start": 179.8999999999999,
+      "end": 181.73179138321984,
+      "loop": false
+    },
+    "/ui_Buy_Character/ui_Buy_Character_01": {
+      "start": 181.9999999999999,
+      "end": 182.17941043083889,
+      "loop": false
+    },
+    "/ui_Buy_Character/ui_Buy_Character_02": {
+      "start": 183.09999999999988,
+      "end": 183.3076870748298,
+      "loop": false
+    },
+    "/ui_Buy_Character/ui_Buy_Character_03": {
+      "start": 184.19999999999987,
+      "end": 184.47659863945566,
+      "loop": false
+    },
+    "/ui_Cant_Buy_Character/ui_Cant_Buy_Character_01": {
+      "start": 185.29999999999987,
+      "end": 185.67278911564614,
+      "loop": false
+    },
+    "/ui_Cant_Buy_Character/ui_Cant_Buy_Character_02": {
+      "start": 186.3999999999999,
+      "end": 186.8047619047618,
+      "loop": false
+    },
+    "/ui_Character_Select_Slide/ui_Character_Select_Slide_01": {
+      "start": 187.4999999999999,
+      "end": 187.69827664399082,
+      "loop": false
+    },
+    "/ui_Character_Select_Slide/ui_Character_Select_Slide_02": {
+      "start": 188.59999999999988,
+      "end": 188.80503401360534,
+      "loop": false
+    },
+    "/ui_Character_Select_Slide/ui_Character_Select_Slide_03": {
+      "start": 189.6999999999999,
+      "end": 189.90503401360536,
+      "loop": false
+    },
+    "/ui_Character_Select_Slide/ui_Character_Select_Slide_04": {
+      "start": 190.79999999999993,
+      "end": 191.00503401360538,
+      "loop": false
+    },
+    "/ui_Mouse_Click/ui_Mouse_Click": {
+      "start": 191.89999999999995,
+      "end": 192.02501133786842,
+      "loop": false
+    },
+    "/voice_Buy_Anais/voice_Buy_Anais_01": {
+      "start": 192.99999999999994,
+      "end": 193.50167800453508,
+      "loop": false
+    },
+    "/voice_Buy_Anais/voice_Buy_Anais_02": {
+      "start": 194.09999999999994,
+      "end": 194.44444444444437,
+      "loop": false
+    },
+    "/voice_Buy_Anais/voice_Buy_Anais_03": {
+      "start": 195.19999999999993,
+      "end": 195.57117913832192,
+      "loop": false
+    },
+    "/voice_Buy_Carrie/voice_Buy_Carrie_01": {
+      "start": 196.29999999999993,
+      "end": 196.58793650793643,
+      "loop": false
+    },
+    "/voice_Buy_Darwin/voice_Buy_Darwin_02": {
+      "start": 197.39999999999992,
+      "end": 198.01437641723348,
+      "loop": false
+    },
+    "/voice_Buy_Richard/voice_Buy_Richard_02": {
+      "start": 198.49999999999991,
+      "end": 198.86598639455775,
+      "loop": false
+    },
+    "/voice_Fall_Off_Cliff/voice_Fall_Off_Cliff_Anais": {
+      "start": 199.59999999999994,
+      "end": 201.3838548752834,
+      "loop": false
+    },
+    "/voice_Fall_Off_Cliff/voice_Fall_Off_Cliff_Carrie": {
+      "start": 201.69999999999993,
+      "end": 203.69999999999993,
+      "loop": false
+    },
+    "/voice_Fall_Off_Cliff/voice_Fall_Off_Cliff_Darwin": {
+      "start": 203.79999999999993,
+      "end": 205.69845804988654,
+      "loop": false
+    },
+    "/voice_Fall_Off_Cliff/voice_Fall_Off_Cliff_Gumball": {
+      "start": 205.89999999999992,
+      "end": 208.22918367346932,
+      "loop": false
+    },
+    "/voice_Fall_Off_Cliff/voice_Fall_Off_Cliff_Richard": {
+      "start": 208.99999999999994,
+      "end": 211.4375056689342,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_01": {
+      "start": 212.09999999999997,
+      "end": 212.24589569160995,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_02": {
+      "start": 213.19999999999996,
+      "end": 213.4065079365079,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_03": {
+      "start": 214.29999999999995,
+      "end": 214.49183673469383,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_04": {
+      "start": 215.39999999999995,
+      "end": 215.62918367346933,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_05": {
+      "start": 216.49999999999994,
+      "end": 216.66999999999993,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_06": {
+      "start": 217.59999999999994,
+      "end": 217.8387301587301,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_07": {
+      "start": 218.69999999999993,
+      "end": 219.06829931972783,
+      "loop": false
+    },
+    "/voice_Gumball_Jump/voice_Gumball_Jump_Grunt_08": {
+      "start": 219.79999999999993,
+      "end": 220.1268480725623,
+      "loop": false
+    },
+    "/voice_Gumball_Jump_Smash_Grunt/voice_Gumball_Jump_Smash_Grunt_01": {
+      "start": 220.89999999999995,
+      "end": 221.1885487528344,
+      "loop": false
+    },
+    "/voice_Gumball_Jump_Smash_Grunt/voice_Gumball_Jump_Smash_Grunt_02": {
+      "start": 221.99999999999994,
+      "end": 222.3396598639455,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_01": {
+      "start": 223.09999999999994,
+      "end": 223.47117913832193,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_010": {
+      "start": 224.19999999999993,
+      "end": 224.37056689342396,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_011": {
+      "start": 225.29999999999993,
+      "end": 225.53632653061217,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_012": {
+      "start": 226.39999999999992,
+      "end": 226.62362811791374,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_02": {
+      "start": 227.49999999999991,
+      "end": 227.68104308390014,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_03": {
+      "start": 228.5999999999999,
+      "end": 228.87897959183664,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_04": {
+      "start": 229.6999999999999,
+      "end": 229.96004535147384,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_05": {
+      "start": 230.79999999999993,
+      "end": 231.03174603174597,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_06": {
+      "start": 231.89999999999995,
+      "end": 232.1628571428571,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_07": {
+      "start": 232.99999999999994,
+      "end": 233.27328798185934,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_08": {
+      "start": 234.09999999999994,
+      "end": 234.35426303854868,
+      "loop": false
+    },
+    "/voice_Jump_Anais/voice_Anais_Jump_Grunt_09": {
+      "start": 235.19999999999993,
+      "end": 235.44052154195003,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_01": {
+      "start": 236.29999999999993,
+      "end": 236.47494331065752,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_010": {
+      "start": 237.39999999999992,
+      "end": 237.58750566893417,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_011": {
+      "start": 238.49999999999994,
+      "end": 238.6338548752834,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_012": {
+      "start": 239.59999999999994,
+      "end": 239.75834467120174,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_02": {
+      "start": 240.69999999999993,
+      "end": 240.94185941043077,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_03": {
+      "start": 241.79999999999993,
+      "end": 241.97394557823122,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_04": {
+      "start": 242.89999999999992,
+      "end": 243.05938775510197,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_05": {
+      "start": 243.99999999999991,
+      "end": 244.18750566893416,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_06": {
+      "start": 245.09999999999994,
+      "end": 245.3343764172335,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_07": {
+      "start": 246.19999999999993,
+      "end": 246.4062585034013,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_08": {
+      "start": 247.29999999999993,
+      "end": 247.45938775510197,
+      "loop": false
+    },
+    "/voice_Jump_Carrie/voice_Jump_Carrie_09": {
+      "start": 248.39999999999992,
+      "end": 248.58750566893417,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_01": {
+      "start": 249.49999999999994,
+      "end": 249.76204081632648,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_010": {
+      "start": 250.59999999999994,
+      "end": 250.8404988662131,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_02": {
+      "start": 251.69999999999993,
+      "end": 251.98451247165525,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_03": {
+      "start": 252.79999999999993,
+      "end": 253.07580498866207,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_04": {
+      "start": 253.89999999999995,
+      "end": 254.17535147392286,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_05": {
+      "start": 254.99999999999994,
+      "end": 255.31251700680266,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_06": {
+      "start": 256.09999999999997,
+      "end": 256.38918367346935,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_07": {
+      "start": 257.19999999999993,
+      "end": 257.4620181405895,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_08": {
+      "start": 258.29999999999995,
+      "end": 258.5444444444444,
+      "loop": false
+    },
+    "/voice_Jump_Darwin/voice_Darwin_Jump_Grunt_09": {
+      "start": 259.4,
+      "end": 259.57002267573694,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_01": {
+      "start": 260.5,
+      "end": 260.66979591836736,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_02": {
+      "start": 261.6,
+      "end": 261.83333333333337,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_03": {
+      "start": 262.70000000000005,
+      "end": 262.92675736961456,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_04": {
+      "start": 263.80000000000007,
+      "end": 263.9589795918368,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_05": {
+      "start": 264.90000000000003,
+      "end": 265.14129251700683,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_06": {
+      "start": 266.00000000000006,
+      "end": 266.22952380952387,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_07": {
+      "start": 267.1000000000001,
+      "end": 267.532380952381,
+      "loop": false
+    },
+    "/voice_Jump_Richard/voice_Richard_Jump_Grunt_08": {
+      "start": 268.20000000000005,
+      "end": 268.520589569161,
+      "loop": false
+    },
+    "/voice_Richard_Stuck_Fall/voice_Richard_Stuck_Fall": {
+      "start": 269.3,
+      "end": 273.4125170068027,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/anais/voice_Spring_Jump_Reaction_Anais_01": {
+      "start": 274.4,
+      "end": 274.8885487528344,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/anais/voice_Spring_Jump_Reaction_Anais_02": {
+      "start": 275.49999999999994,
+      "end": 275.7729705215419,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/carrie/voice_Spring_Jump_Reaction_Carrie_01": {
+      "start": 276.5999999999999,
+      "end": 277.2202040816326,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/carrie/voice_Spring_Jump_Reaction_Carrie_02": {
+      "start": 277.69999999999993,
+      "end": 277.89133786848066,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/darwin/voice_Spring_Jump_Reaction_Darwin_01": {
+      "start": 278.79999999999995,
+      "end": 279.5289795918367,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/darwin/voice_Spring_Jump_Reaction_Darwin_02": {
+      "start": 279.8999999999999,
+      "end": 280.27247165532873,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/darwin/voice_Spring_Jump_Reaction_Darwin_03": {
+      "start": 280.99999999999994,
+      "end": 281.61437641723353,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/gumball/voice_Spring_Jump_Reaction_Gumball_01": {
+      "start": 282.09999999999997,
+      "end": 282.7492063492063,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/richard/voice_Spring_Jump_Reaction_Richard_01": {
+      "start": 283.19999999999993,
+      "end": 283.7871655328797,
+      "loop": false
+    },
+    "/voice_Spring_Jump_Reaction/richard/voice_Spring_Jump_Reaction_Richard_02": {
+      "start": 284.2999999999999,
+      "end": 285.23179138321984,
+      "loop": false
+    },
+    "/voice_Success_Highscore/anais/voice_Anais_Success_HighScore_03": {
+      "start": 285.39999999999986,
+      "end": 285.6792743764171,
+      "loop": false
+    },
+    "/voice_Success_Highscore/carrie/voice_Carrie_Success_HighScore_03": {
+      "start": 286.49999999999983,
+      "end": 287.1202040816325,
+      "loop": false
+    },
+    "/voice_Success_Highscore/darwin/voice_Darwin_Success_HighScore_04": {
+      "start": 287.59999999999985,
+      "end": 288.3673242630384,
+      "loop": false
+    },
+    "/voice_Success_Highscore/gumball/voice_Gumball_Success_HighScore_03": {
+      "start": 288.6999999999999,
+      "end": 289.7157369614511,
+      "loop": false
+    },
+    "/voice_Success_Highscore/richard/voice_Richard_Success_HighScore_02": {
+      "start": 290.79999999999984,
+      "end": 291.7317913832198,
+      "loop": false
+    },
+    "/voice_Success_Highscore/richard/voice_Richard_Success_HighScore_03": {
+      "start": 291.8999999999998,
+      "end": 292.2659863945576,
+      "loop": false
+    }
+  }
+}

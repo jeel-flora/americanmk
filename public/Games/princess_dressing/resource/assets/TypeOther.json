@@ -1,0 +1,15 @@
+{
+"mc": {
+	"TypeOther": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"TypeOther0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"TypeOther0000":{"x":0,"y":0,"w":33,"h":33}
+}
+}

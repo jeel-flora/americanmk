@@ -1,0 +1,15 @@
+{
+"mc": {
+	"TypeMO": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"TypeMO0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"TypeMO0000":{"x":0,"y":0,"w":33,"h":33}
+}
+}

@@ -1,0 +1,15 @@
+{
+"mc": {
+	"TypeLI": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"TypeLI0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"TypeLI0000":{"x":0,"y":0,"w":33,"h":33}
+}
+}

@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnIndex": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnIndex0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"btnIndex0000":{"x":0,"y":0,"w":67,"h":67}
+}
+}

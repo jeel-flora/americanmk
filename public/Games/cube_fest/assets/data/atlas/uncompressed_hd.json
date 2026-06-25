@@ -1,0 +1,92 @@
+{"frames": {
+
+"cloud01":
+{
+	"frame": {"x":1,"y":1273,"w":411,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":411,"h":327},
+	"sourceSize": {"w":411,"h":327}
+},
+"cloud02":
+{
+	"frame": {"x":1092,"y":1234,"w":356,"h":281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":281},
+	"sourceSize": {"w":356,"h":281}
+},
+"cloud03 - Copy":
+{
+	"frame": {"x":1092,"y":549,"w":486,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":486,"h":384},
+	"sourceSize": {"w":486,"h":384}
+},
+"cloud03":
+{
+	"frame": {"x":1092,"y":549,"w":486,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":486,"h":384},
+	"sourceSize": {"w":486,"h":384}
+},
+"cloud04":
+{
+	"frame": {"x":1092,"y":935,"w":376,"h":297},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":376,"h":297},
+	"sourceSize": {"w":376,"h":297}
+},
+"earth":
+{
+	"frame": {"x":1,"y":1,"w":1668,"h":546},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1668,"h":546},
+	"sourceSize": {"w":1668,"h":546}
+},
+"gumball_shop_tower":
+{
+	"frame": {"x":1,"y":549,"w":382,"h":722},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":722},
+	"sourceSize": {"w":382,"h":722}
+},
+"planet01":
+{
+	"frame": {"x":385,"y":549,"w":546,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":546,"h":540},
+	"sourceSize": {"w":546,"h":540}
+},
+"planet02":
+{
+	"frame": {"x":686,"y":1091,"w":404,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":404,"h":404},
+	"sourceSize": {"w":413,"h":410}
+},
+"space_background":
+{
+	"frame": {"x":414,"y":1091,"w":270,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":480},
+	"sourceSize": {"w":270,"h":480}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "uncompressed_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1670,"h":1601},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:067af21bce5f00a7608d1c2fd6275fa7:9b21d3e1c894357d808cfbe87725e5cb:6b83a69679f2fdf862123436e12bbb70$"
+}
+}

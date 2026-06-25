@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnShow": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnShow0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"btnShow0000":{"x":0,"y":0,"w":55,"h":55}
+}
+}

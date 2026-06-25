@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnLeft": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnLeft0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"btnLeft0000":{"x":0,"y":0,"w":23,"h":29}
+}
+}

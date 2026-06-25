@@ -1,0 +1,426 @@
+
+Skeleton_refine_2.png
+size: 219,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 78, 153
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+Axe_S
+  rotate: false
+  xy: 120, 158
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+BLUE/BREAST_Plate_M
+  rotate: false
+  xy: 2, 6
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+BLUE/FLAP_Belt
+  rotate: true
+  xy: 126, 10
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+BLUE/HELMET_L_2
+  rotate: false
+  xy: 2, 429
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+BLUE/HELMET_M_1
+  rotate: true
+  xy: 154, 340
+  size: 66, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+BLUE/Shoulder_Plate
+  rotate: false
+  xy: 196, 364
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+BLUE/Shoulder_plate_2
+  rotate: true
+  xy: 98, 30
+  size: 27, 23
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+BODY_BONES
+  rotate: true
+  xy: 128, 220
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+BOOT
+  rotate: false
+  xy: 51, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Boot_Fur
+  rotate: false
+  xy: 98, 19
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+Boot_Guarda
+  rotate: false
+  xy: 173, 32
+  size: 19, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+EYES_Large
+  rotate: true
+  xy: 205, 476
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+Eyes_Small
+  rotate: true
+  xy: 153, 127
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 149, 118
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+ForeArm
+  rotate: false
+  xy: 98, 89
+  size: 20, 28
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Green/BREAST_Plate_M
+  rotate: false
+  xy: 170, 244
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Green/FLAP_Belt
+  rotate: false
+  xy: 153, 3
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Green/HELMET_L_2
+  rotate: false
+  xy: 2, 338
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+Green/HELMET_M_1
+  rotate: true
+  xy: 170, 272
+  size: 66, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Green/Shoulder_Plate
+  rotate: false
+  xy: 196, 344
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Green/Shoulder_plate_2
+  rotate: true
+  xy: 148, 30
+  size: 27, 23
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Grey/BREAST_Plate_M
+  rotate: false
+  xy: 170, 216
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Grey/FLAP_Belt
+  rotate: true
+  xy: 162, 115
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Grey/HELMET_L_2
+  rotate: false
+  xy: 78, 429
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+Grey/HELMET_M_1
+  rotate: true
+  xy: 78, 172
+  size: 66, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Grey/Shoulder_Plate
+  rotate: false
+  xy: 169, 68
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Grey/Shoulder_plate_2
+  rotate: false
+  xy: 120, 103
+  size: 27, 23
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Hand_GRIP
+  rotate: true
+  xy: 98, 59
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Hand_PALM_In
+  rotate: true
+  xy: 154, 88
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Hand_PALM_Out
+  rotate: false
+  xy: 117, 128
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Leg_Bone
+  rotate: true
+  xy: 72, 5
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+PANTS_FUR
+  rotate: true
+  xy: 205, 435
+  size: 39, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+PANTS_Leg
+  rotate: false
+  xy: 196, 384
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+PELVIS_Bone
+  rotate: false
+  xy: 120, 88
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+Pants_BOttom_Top
+  rotate: true
+  xy: 74, 118
+  size: 33, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Pink/BREAST_Plate_M
+  rotate: false
+  xy: 162, 135
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Pink/FLAP_Belt
+  rotate: true
+  xy: 189, 115
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Pink/HELMET_L_2
+  rotate: false
+  xy: 2, 247
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+Pink/HELMET_M_1
+  rotate: false
+  xy: 2, 76
+  size: 66, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Pink/Shoulder_Plate
+  rotate: false
+  xy: 192, 68
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Pink/Shoulder_plate_2
+  rotate: true
+  xy: 119, 59
+  size: 27, 23
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Red/BREAST_Plate_M
+  rotate: true
+  xy: 70, 69
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Red/FLAP_Belt
+  rotate: false
+  xy: 179, 88
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Red/HELMET_L_2
+  rotate: false
+  xy: 78, 338
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+Red/HELMET_M_1
+  rotate: false
+  xy: 2, 34
+  size: 66, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Red/Shoulder_Plate
+  rotate: false
+  xy: 173, 48
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Red/Shoulder_plate_2
+  rotate: true
+  xy: 123, 30
+  size: 27, 23
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+SKULL
+  rotate: false
+  xy: 162, 163
+  size: 53, 51
+  orig: 54, 51
+  offset: 1, 0
+  index: -1
+SKULL_Crack
+  rotate: true
+  xy: 51, 22
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+SLASH
+  rotate: false
+  xy: 2, 118
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+Skull_Jaw
+  rotate: true
+  xy: 91, 119
+  size: 32, 24
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Sword_L
+  rotate: false
+  xy: 154, 408
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+Sword_M_2
+  rotate: false
+  xy: 78, 240
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+Yellow/BREAST_Plate_M
+  rotate: true
+  xy: 70, 20
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Yellow/FLAP_Belt
+  rotate: false
+  xy: 199, 88
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Yellow/HELMET_L_2
+  rotate: false
+  xy: 2, 156
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+Yellow/HELMET_M_1
+  rotate: true
+  xy: 128, 270
+  size: 66, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Yellow/Shoulder_Plate
+  rotate: false
+  xy: 196, 48
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Yellow/Shoulder_plate_2
+  rotate: true
+  xy: 144, 59
+  size: 27, 23
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

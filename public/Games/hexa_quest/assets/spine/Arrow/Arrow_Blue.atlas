@@ -1,0 +1,34 @@
+
+HERO_SFX arrow1.png
+size: 166,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SHAR_Center_2
+  rotate: false
+  xy: 2, 54
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+SHAR_SHADE
+  rotate: true
+  xy: 105, 8
+  size: 71, 59
+  orig: 75, 61
+  offset: 2, 1
+  index: -1
+SHAr
+  rotate: false
+  xy: 2, 2
+  size: 87, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+Sparkle1
+  rotate: false
+  xy: 57, 50
+  size: 46, 29
+  orig: 48, 30
+  offset: 1, 1
+  index: -1

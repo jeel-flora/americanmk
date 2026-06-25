@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui, shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <title>Handy Driver</title>
+    <script type="text/javascript">document.domain='aibrowser.net'</script>
+    <link rel="stylesheet" href="assets/css/app.css" type="text/css">
+
+    <script src="libs/phaser.min.js"></script>
+    <script src="libs/box2d-plugin-full.min.js"></script>
+    <script src="game.js"></script>
+
+    <script>
+      window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, false);
+      if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+        var meta = document.getElementById ("viewport");
+        meta.setAttribute('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+      }
+    </script>
+
+  
+		<!-- Google Analytics -->
+		<script type="text/javascript">
+			window['GD_OPTIONS'] = {
+				'gameId': '13429c75b8c5475eb5d6ded607e2c959',
+				'onEvent': function(event) {
+						Game.GDSDK.getInstance().onEvent(event);
+				},
+				'advertisementSettings': {
+						'autoplay': false // Don't use this because of browser video autoplay restrictions.
+				}
+			};
+							
+			//Include script. even when adblock is enabled, this script also allows us to track our users;
+			(function(d, s, id) {
+			let js;
+			let fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {
+					return;
+			}
+			js = d.createElement(s);
+			js.id = id;
+			js.src = '';
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'gamedistribution-jssdk'));
+		</script>
+<meta name="title" content="Handy Driver"><meta name="description" content=""><meta name="revisit-after" content="1 day"><meta property="og:type" content="website"><meta property="og:url" content="https://games.vancedgames.com/games/handy_driver/index.htm"><meta property="og:title" content="Handy Driver"><meta property="og:description" content=""><meta property="og:image" content="https://api.vancedgames.com/Gamezone/Banners/Preview/64ddeb7ae96502f00284f9a7.jpg"></head>
+<body onload="startGame();">
+    <div id="content"></div>
+    <div id="orientation"></div>
+
+    <script type="text/javascript">
+      function startGame() {
+        new Game.Main();
+      }
+    </script>
+
+
+</body></html>

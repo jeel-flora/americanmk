@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+    <languages>
+        <language>en</language>
+        <language>es</language>
+        <language>de</language>
+        <language>it</language>
+        <language>fr</language>
+        <language>ru</language>
+        <language>pt</language>
+    </languages>
+    <strings>
+        <string id="1" index="0">
+            <en>en</en>
+            <es>es</es>
+            <de>de</de>
+            <it>it</it>
+            <fr>fr</fr>
+            <ru>ru</ru>
+            <pt>pt</pt>
+        </string>
+        <string id="2" index="1">
+            <en>EXIT?</en>
+            <sk>KONIEC?</sk>
+            <es>¿FINAL?</es>
+            <de>ENDE?</de>
+            <it>FINE?</it>
+            <fr>QUITTER?</fr>
+            <ru>ВЫХОД?</ru>
+            <pt>FECHAR?</pt>
+            <tr/>
+        </string>
+        <string id="3" index="2">
+            <en>ENABLE MUSIC?</en>
+            <sk>ZAPNÚŤ HUDBU?</sk>
+            <es>¿ACTIVAR MÚSICA?</es>
+            <de>MUSIK AKTIVIEREN?</de>
+            <it>ABILITARE MUSICA?</it>
+            <fr>ACTIVER LA MUSIQUE?</fr>
+            <ru>ВКЛЮЧИТЬ МУЗЫКУ?</ru>
+            <pt>LIGAR MÚSICA?</pt>
+            <tr/>
+        </string>
+        <string id="4" index="3">
+            <en>YES</en>
+            <sk>ÁNO</sk>
+            <es>SÍ</es>
+            <de>JA</de>
+            <it>SÌ</it>
+            <fr>OUI</fr>
+            <ru>ДА</ru>
+            <pt>SIM</pt>
+            <tr/>
+        </string>
+        <string id="5" index="4">
+            <en>NO</en>
+            <sk>NIE</sk>
+            <es>NO</es>
+            
+            <de>NEIN</de>
+            <it>NO</it>
+            <fr>NON</fr>
+            <ru>Нет</ru>
+            <pt>NÃO</pt>
+            <tr/>
+        </string>
+        <string id="6" index="5">
+            <en>PLAY</en>
+            <sk/>
+            <es>JUGAR</es>
+            
+            <de>SPIELEN</de>
+            <it>GIOCA</it>
+            <fr>JOUER</fr>
+            <ru/>
+            <pt>JOGAR</pt>
+            <tr/>
+        </string>
+        <string id="7" index="6">
+            <en>SETTINGS</en>
+            <sk/>
+            <es>AJUSTES</es>
+            
+            <de>EINSTELLUNGEN</de>
+            <it>IMPOSTAZIONI</it>
+            <fr>PARAMÈTRES</fr>
+            <ru/>
+            <pt>DEFINIÇÕES</pt>
+            <tr/>
+        </string>
+        <string id="INSTRUCTIONS" index="7">
+            <en>INSTRUCTIONS</en>
+            <es>INSTRUCCIONES</es>
+            <de>ANWEISUNGEN</de>
+            <it>ISTRUZIONI</it>
+            <fr>INSTRUCTIONS</fr>
+            <ru>ИНСТРУКЦИИ</ru>
+            <pt>INSTRUÇÕES</pt>
+        </string>
+        <string id="9" index="8">
+            <en>ABOUT</en>
+            <sk/>
+            <es>INFORMACIÓN</es>
+            
+            <de>INFO</de>
+            <it>INFO</it>
+            <fr>À PROPOS</fr>
+            <ru/>
+            <pt>ACERCA DE</pt>
+            <tr/>
+        </string>
+        <string id="10" index="9">
+            <en>MORE GAMES</en>
+            <sk/>
+            <es>MÁS JUEGOS</es>
+            
+            <de>WEITERE SPIELE</de>
+            <it>ALTRI GIOCHI</it>
+            <fr>PLUS DE JEUX</fr>
+            <ru/>
+            <pt>MAIS JOGOS</pt>
+            <tr/>
+        </string>
+        <string id="LEVEL" index="17">
+            <en>LEVEL</en>
+            <es>NIVEL</es>
+            <de>LEVEL</de>
+            <it>LIVELLO</it>
+            <fr>NIVEAU</fr>
+            <pt>NÍVEL</pt>
+            <ru>УРОВЕНЬ</ru>
+        </string>
+        <string id="LEVEL_SHORT" index="17">
+            <en>LVL.</en>
+            <es>NVL.</es>
+            <de>LVL.</de>
+            <it>LVLL.</it>
+            <fr>NIV.</fr>
+            <pt>NÍV.</pt>
+            <ru>УРОВ.</ru>
+        </string>
+        <string id="UPGRADE_SHOP" index="17">
+            <en>Upgrade shop</en>
+            <de>Verbesserungs</de>
+            <es>Mejorar tienda</es>
+            <fr>améliorations</fr>
+            <it>potenziamenti</it>
+            <pt>atualizações</pt>
+            <ru>Магазин обновлений</ru>
+        </string>
+
+
+        <string id="ARMOR" index="90">
+            <en>Armor</en>
+            <de>Panzerung</de>
+            <es>Blindaje</es>
+            <fr>Blindage</fr>
+            <it>Corazza</it>
+            <pt>Blindagem</pt>
+            <ru>Защита</ru>
+        </string>
+
+        <string id="GUN1" index="91">
+            <en>Pistol</en>
+            <de>Pistole</de>
+            <es>Pistola</es>
+            <fr>Pistolet</fr>
+            <it>Pistola</it>
+            <pt>Pistola</pt>
+            <ru>Пистолет</ru>
+        </string>
+
+        <string id="MAGNET" index="93">
+            <en>Magnet</en>
+            <de>Magnet</de>
+            <es>Imán</es>
+            <fr>Aimant</fr>
+            <it>Magnete</it>
+            <pt>Magnético</pt>
+            <ru>Магнит</ru>
+        </string>
+
+        <string id="GUN2" index="92">
+            <en>Shotgun</en>
+            <de>Schrotgewehr</de>
+            <es>Fusil</es>
+            <fr>Fusil à pompe</fr>
+            <it>Fucile</it>
+            <pt>Espingarda</pt>
+            <ru>Дробовик</ru>
+        </string>
+
+        <string id="GUN3" index="92">
+            <en>Machinegun</en>
+            <de>Maschinengewehr</de>
+            <es>Ametralladora</es>
+            <fr>Mitraillette</fr>
+            <it>Mitragliatrice</it>
+            <pt>Metralhadora</pt>
+            <ru>Пулемет</ru>
+        </string>
+
+        <string id="GUN4" index="92">
+            <en>Bazooka</en>
+            <de>Raketenwerfer</de>
+            <es>Lanzagranadas</es>
+            <fr>Bazooka</fr>
+            <it>Bazooka</it>
+            <pt>Bazuca</pt>
+            <ru>Базука</ru>
+        </string>
+
+        <string id="DESC_GUN1" index="97">
+            <en>Stronger basic weapon</en>
+            <de>Stärkere Grundwaffe</de>
+            <es>Arma básica más potente</es>
+            <fr>Arme de base plus puissante</fr>
+            <it>Arma base più potente</it>
+            <pt>Arma básica mais forte</pt>
+            <ru>Сильнее базовое оружие</ru>
+        </string>
+
+        <string id="DESC_ARMOR" index="96">
+            <en>Endure more damage</en>
+            <de>Du kannst mehr Schaden einstecken</de>
+            <es>Aguanta más daño</es>
+            <fr>Encaisse plus de dégâts</fr>
+            <it>Resiste a più danni</it>
+            <pt>Suportar mais danos</pt>
+            <ru>Выдержит больше урона</ru>
+        </string>
+
+        <string id="DESC_MAGNET" index="99">
+            <en>Longer lasting pickup pulling</en>
+            <de>Länger andauernder Beutesog</de>
+            <es>Recogida de objetos más duradera</es>
+            <fr>Récupération d'objets plus durable</fr>
+            <it>Attiri gli oggetti per più tempo</it>
+            <pt>Captação mais demorada</pt>
+            <ru>Более длительное притягивание улучшений</ru>
+        </string>
+
+        <string id="DESC_GUN234" index="97">
+            <en>Stronger and more ammo</en>
+            <de>Stärkere und mehr Munition</de>
+            <es>Más munición, y más potente</es>
+            <fr>Plus puissant et plus de munitions</fr>
+            <it>Munizioni maggiori e più potenti</it>
+            <pt>Mais munição e mais forte</pt>
+            <ru>Сильнее и больше боеприпасов</ru>
+        </string>
+
+        <string id="INSTR" index="101">
+            <en>Hold your finger on the screen\n and swipe left and right\n to move your soldier.</en>
+            <de>Halt deinen Finger auf den Bildschirm\n und wische nach links und rechts, \num dein Soldaten zu bewegen.</de>
+            <es>Mantén el dedo en la pantalla\ny deslízalo hacia la izquierda y derecha\npara desplazar al soldado.</es>
+            <fr>Maintenez votre doigt appuyé sur\nl'écran et balayez à gauche et à droite\npour déplacer votre soldat.</fr>
+            <it>Tieni premuto il dito sullo schermo\ne scorri verso sinistra e verso\ndestra per spostare il tuo soldato.</it>
+            <pt>Mantenha seu dedo na tela e deslize\npara a esquerda e para a direita\npara mover seu soldado.</pt>
+            <ru>Держите палец на экране\nи проведите пальцем влево и вправо,\nчтобы переместить солдата.</ru>
+            <tr>Uzay geminizi sola ve sağa hareket ettirmek için parmağınızı ekrana dokunun ve sola veya sağa kaydırın.</tr>
+
+        </string>
+
+        <string id="INSTR_DESKTOP" index="101">
+            <en>KEY LEFT:\nMOVE LEFT\n\nKEY RIGHT:\nMOVE RIGHT</en>
+            <it>CHIAVE SINISTRA:\nMUOVERE A SINISTRA\n\nCHIAVE DESTRA:\nMUOVERE A DESTRA</it>
+            <ru>КНОПКА С ЛЕВА:\nДВИГАТЬСЯ ВЛЕВО\n\nКНОПКА С ПРАВА:\nДВИГАТЬСЯ ВПРАВО</ru>
+            <nl>KNOP LINKS:\nNAAR LINKS\n\nKNOP RECHTS:\nNAAR RECHTS</nl>
+            <sk>KLÁVES VĽAVO - POHYB VĽAVO\nKLÁVES VPRAVO - POHYB VPRAVO</sk>
+            <es>LA TECLA IZQUIERDA:\nMOVIMIENTO A LA IZQUIERDA\n\nLA TECLA DERECHA:\nMOVIMIENTO A LA DERECHA</es>
+            <de>LINKE TASTE:\nNACH LINKS LAUFEN\n\nRECHTE TASTE:\nNACH RECHTS LAUFEN</de>
+            <fr>TOUCHE GAUCHE:\nMOUVEMENT VERS LA GAUCHE\n\nTOUCHE DROITE:\nMOUVEMENT VERS LA DROITE</fr>
+            <pt>TECLA ESQUERDA:\nMOVIMENTO À ESQUERDA\n\nTECLA DIREITA:\nMOVIMENTO À DIREITA</pt>
+        </string>
+
+        <string id="GMOVR_BOSSES" index="95">
+            <en>Bosses down</en>
+            <de>Ausgeschaltete Bosse</de>
+            <es>Jefes vencidos</es>
+            <fr>Boss abattus</fr>
+            <it>Boss giù</it>
+            <pt>Chefes derrotados</pt>
+            <ru>Убитых боссов</ru>
+        </string>
+
+        <string id="GMOVR_ENEMIES" index="95">
+            <en>Enemies down</en>
+            <de>Ausgeschaltete Gegner</de>
+            <es>Enemigos derribados</es>
+            <fr>Ennemis abattus</fr>
+            <it>Nemici giù</it>
+            <pt>Inimigos derrotados</pt>
+            <ru>Убитых врагов</ru>
+        </string>
+
+        <string id="GMOVR_WEAPONS" index="95">
+            <en>Weapons found</en>
+            <de>Gefundene Waffen</de>
+            <es>Armas encontradas</es>
+            <fr>Armes trouvées</fr>
+            <it>Armi trovate</it>
+            <pt>Armas encontradas</pt>
+            <ru>Оружий найдено</ru>
+        </string>
+
+        <string id="GMOVR_DESTRUCTION" index="95">
+            <en>Destruction</en>
+            <de>Zerstörung</de>
+            <es>Destrucción</es>
+            <fr>Destruction</fr>
+            <it>Distruzione</it>
+            <pt>Destruição</pt>
+            <ru>Разрушений</ru>
+        </string>
+
+        <string id="GMOVR_TOTAL" index="95">
+            <en>Total</en>
+            <de>Gesamt</de>
+            <es>Total</es>
+            <fr>Total</fr>
+            <it>Totale</it>
+            <pt>Total</pt>
+            <ru>Итог</ru>
+        </string>
+
+        <string id="PAUSE" index="95">
+            <en>PAUSE</en>
+            <de>PAUSE</de>
+            <es>PAUSA</es>
+            <fr>PAUSE</fr>
+            <it>PAUSA</it>
+            <pt>PAUSA</pt>
+            <ru>ПАУЗА</ru>
+        </string>
+
+        <string id="WAVE_COMPLETED" index="95">
+            <en>Wave completed</en>
+            <de>Welle abgeschlossen</de>
+            <es>Horda eliminada</es>
+            <fr>Vague terminée</fr>
+            <it>Ondata completata</it>
+            <pt>Onda concluída</pt>
+            <ru>Волна пройдена</ru>
+        </string>
+
+        <string id="ASTEROIDS" index="95">
+            <en>Asteroids\nincoming</en>
+            <de>Asteroiden\nim Anflug</de>
+            <es>Se aproximan\nasteroides</es>
+            <fr>Astéroïdes\nen approche</fr>
+            <it>Asteroidi\nin arrivo</it>
+            <pt>Asteroides\nchegando</pt>
+            <ru>Астероиды\nприближаются</ru>
+        </string>
+
+    </strings>
+</stringresources>

@@ -1,0 +1,279 @@
+
+skeleton.png
+size: 891,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 691, 83
+  size: 36, 73
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+Axe_Blade
+  rotate: false
+  xy: 625, 54
+  size: 64, 85
+  orig: 64, 86
+  offset: 0, 1
+  index: -1
+Axe_Handle
+  rotate: false
+  xy: 691, 121
+  size: 119, 18
+  orig: 119, 18
+  offset: 0, 0
+  index: -1
+Blue/Forearm
+  rotate: true
+  xy: 766, 70
+  size: 49, 44
+  orig: 49, 45
+  offset: 0, 1
+  index: -1
+Blue/Helmet
+  rotate: false
+  xy: 190, 52
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+Blue/Shoulder
+  rotate: false
+  xy: 401, 6
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Body_Shade
+  rotate: false
+  xy: 2, 43
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 812, 71
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Chest_Guard_2
+  rotate: false
+  xy: 758, 35
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+Chest_Guard_3
+  rotate: false
+  xy: 780, 9
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Eyes_Big
+  rotate: true
+  xy: 873, 76
+  size: 42, 16
+  orig: 43, 17
+  offset: 1, 1
+  index: -1
+Eyes_Small
+  rotate: false
+  xy: 856, 6
+  size: 29, 16
+  orig: 31, 16
+  offset: 1, 0
+  index: -1
+FINGER_Half
+  rotate: true
+  xy: 103, 29
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Finger_Bent_In
+  rotate: false
+  xy: 757, 2
+  size: 21, 31
+  orig: 22, 31
+  offset: 1, 0
+  index: -1
+Finger_Bent_Out
+  rotate: false
+  xy: 869, 37
+  size: 19, 32
+  orig: 20, 32
+  offset: 1, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 86, 2
+  size: 20, 58
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+ForeArm_black
+  rotate: true
+  xy: 691, 45
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+Green/Forearm
+  rotate: false
+  xy: 146, 6
+  size: 49, 44
+  orig: 49, 45
+  offset: 0, 1
+  index: -1
+Green/Helmet
+  rotate: false
+  xy: 277, 52
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+Green/Shoulder
+  rotate: false
+  xy: 452, 6
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Grey/Forearm
+  rotate: false
+  xy: 818, 24
+  size: 49, 45
+  orig: 49, 46
+  offset: 0, 1
+  index: -1
+Grey/Helmet
+  rotate: false
+  xy: 103, 52
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+Grey/Shoulder
+  rotate: false
+  xy: 350, 6
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 818, 4
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 625, 35
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+PALM_OUT
+  rotate: false
+  xy: 689, 10
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+PALM_in
+  rotate: false
+  xy: 605, 2
+  size: 36, 31
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Pink/Forearm
+  rotate: false
+  xy: 299, 6
+  size: 49, 44
+  orig: 49, 45
+  offset: 0, 1
+  index: -1
+Pink/Helmet
+  rotate: false
+  xy: 538, 52
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+Pink/Shoulder
+  rotate: true
+  xy: 643, 3
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Red/Forearm
+  rotate: false
+  xy: 197, 6
+  size: 49, 44
+  orig: 49, 45
+  offset: 0, 1
+  index: -1
+Red/Helmet
+  rotate: false
+  xy: 364, 52
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+Red/Shoulder
+  rotate: false
+  xy: 503, 6
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+SLASH
+  rotate: false
+  xy: 812, 120
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: false
+  xy: 733, 10
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Yellow/Forearm
+  rotate: false
+  xy: 248, 6
+  size: 49, 44
+  orig: 49, 45
+  offset: 0, 1
+  index: -1
+Yellow/Helmet
+  rotate: false
+  xy: 451, 52
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+Yellow/Shoulder
+  rotate: false
+  xy: 554, 6
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+chest_guard_1
+  rotate: false
+  xy: 2, 3
+  size: 82, 38
+  orig: 82, 38
+  offset: 0, 0
+  index: -1

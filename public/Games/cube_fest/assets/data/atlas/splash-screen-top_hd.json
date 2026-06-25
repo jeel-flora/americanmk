@@ -1,0 +1,20 @@
+{"frames": {
+
+"splash_screen_background02":
+{
+	"frame": {"x":1,"y":1,"w":1440,"h":417},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":417},
+	"sourceSize": {"w":1440,"h":417}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "splash-screen-top_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1442,"h":419},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b1ea9e6a6307d2b2c724bc03de0d7f72:7a3a740ae1bee1762451723c113b5a4d:2ebd37e8d0ce6fca20c194d8279fb1c3$"
+}
+}

@@ -1,0 +1,15 @@
+{
+"mc": {
+	"Layers": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"Layers0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"Layers0000":{"x":0,"y":0,"w":111,"h":469}
+}
+}

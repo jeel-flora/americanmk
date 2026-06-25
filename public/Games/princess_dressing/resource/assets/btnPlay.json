@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnPlay": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnPlay0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"btnPlay0000":{"x":0,"y":0,"w":94,"h":94}
+}
+}

@@ -1,0 +1,48 @@
+
+HERO_SFX_electric1.png
+size: 453,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Center
+  rotate: false
+  xy: 235, 17
+  size: 114, 114
+  orig: 122, 122
+  offset: 4, 4
+  index: -1
+Lightning_1
+  rotate: false
+  xy: 242, 133
+  size: 195, 218
+  orig: 205, 226
+  offset: 5, 4
+  index: -1
+Lightning_2
+  rotate: false
+  xy: 2, 366
+  size: 247, 196
+  orig: 255, 204
+  offset: 4, 4
+  index: -1
+Lightning_3
+  rotate: false
+  xy: 2, 2
+  size: 231, 167
+  orig: 239, 175
+  offset: 4, 4
+  index: -1
+Lightning_4
+  rotate: false
+  xy: 2, 171
+  size: 238, 193
+  orig: 246, 200
+  offset: 4, 4
+  index: -1
+Lightning_5
+  rotate: false
+  xy: 251, 353
+  size: 200, 209
+  orig: 208, 216
+  offset: 4, 4
+  index: -1

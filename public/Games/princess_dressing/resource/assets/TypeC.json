@@ -1,0 +1,15 @@
+{
+"mc": {
+	"TypeC": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"TypeC0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"TypeC0000":{"x":0,"y":0,"w":33,"h":33}
+}
+}

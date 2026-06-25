@@ -1,0 +1,132 @@
+{"frames": {
+
+"anais_shop":
+{
+	"frame": {"x":1027,"y":1,"w":272,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":324},
+	"sourceSize": {"w":272,"h":324}
+},
+"anais_shop_white":
+{
+	"frame": {"x":1301,"y":1,"w":272,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":324},
+	"sourceSize": {"w":272,"h":324}
+},
+"arrow":
+{
+	"frame": {"x":639,"y":272,"w":98,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":68},
+	"sourceSize": {"w":98,"h":68}
+},
+"arrow02":
+{
+	"frame": {"x":1123,"y":688,"w":68,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":98},
+	"sourceSize": {"w":68,"h":98}
+},
+"Carrie_shop":
+{
+	"frame": {"x":1575,"y":1,"w":252,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":341},
+	"sourceSize": {"w":252,"h":341}
+},
+"Carrie_shop_white":
+{
+	"frame": {"x":1321,"y":662,"w":252,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":257},
+	"sourceSize": {"w":252,"h":341}
+},
+"darwin_shop":
+{
+	"frame": {"x":1321,"y":327,"w":231,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":316},
+	"sourceSize": {"w":231,"h":316}
+},
+"darwin_shop_white":
+{
+	"frame": {"x":1554,"y":344,"w":231,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":316},
+	"sourceSize": {"w":231,"h":316}
+},
+"gumball_shop":
+{
+	"frame": {"x":833,"y":327,"w":242,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":359},
+	"sourceSize": {"w":242,"h":359}
+},
+"gumball_shop_cloud":
+{
+	"frame": {"x":1,"y":1,"w":636,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":636,"h":384},
+	"sourceSize": {"w":636,"h":384}
+},
+"gumball_shop_cloud02":
+{
+	"frame": {"x":639,"y":1,"w":386,"h":269},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":269},
+	"sourceSize": {"w":386,"h":269}
+},
+"gumball_shop_cloud03":
+{
+	"frame": {"x":833,"y":688,"w":288,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":204},
+	"sourceSize": {"w":288,"h":204}
+},
+"gumball_shop_white":
+{
+	"frame": {"x":1077,"y":327,"w":242,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":359},
+	"sourceSize": {"w":242,"h":359}
+},
+"richard_shop":
+{
+	"frame": {"x":1,"y":387,"w":414,"h":536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":536},
+	"sourceSize": {"w":414,"h":536}
+},
+"richard_shop_white":
+{
+	"frame": {"x":417,"y":387,"w":414,"h":536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":536},
+	"sourceSize": {"w":414,"h":536}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "select_character_screen_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1828,"h":924},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7589e3040f5f042e1ba4b9ced6b456be:c13a1b9fca9098bbeb9c3843d0b4497f:bb28bdeb8818f97cabb636bb9f0c2fbe$"
+}
+}

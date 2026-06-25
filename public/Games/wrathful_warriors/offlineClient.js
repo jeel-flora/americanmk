@@ -1,0 +1,1 @@
+No Content: https://games.vancedgames.com/games/angry_heroes/offlineClient.js

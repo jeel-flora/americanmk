@@ -1,0 +1,164 @@
+{"frames": {
+
+"ad_button":
+{
+	"frame": {"x":1395,"y":1417,"w":331,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":224},
+	"sourceSize": {"w":331,"h":224}
+},
+"arrow_tutorial":
+{
+	"frame": {"x":1395,"y":1043,"w":261,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":138},
+	"sourceSize": {"w":261,"h":138}
+},
+"back_icon":
+{
+	"frame": {"x":1395,"y":1643,"w":151,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":115},
+	"sourceSize": {"w":151,"h":115}
+},
+"box":
+{
+	"frame": {"x":901,"y":1,"w":898,"h":814},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":898,"h":814},
+	"sourceSize": {"w":898,"h":814}
+},
+"box_small":
+{
+	"frame": {"x":1,"y":1247,"w":898,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":898,"h":562},
+	"sourceSize": {"w":898,"h":562}
+},
+"checkmark_icon":
+{
+	"frame": {"x":1395,"y":1292,"w":151,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":123},
+	"sourceSize": {"w":151,"h":123}
+},
+"circle_tutorial":
+{
+	"frame": {"x":1658,"y":1080,"w":155,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":155},
+	"sourceSize": {"w":155,"h":155}
+},
+"keyboard_left":
+{
+	"frame": {"x":901,"y":1043,"w":492,"h":330},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":492,"h":330},
+	"sourceSize": {"w":492,"h":330}
+},
+"keyboard_right":
+{
+	"frame": {"x":901,"y":1375,"w":492,"h":330},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":492,"h":330},
+	"sourceSize": {"w":492,"h":330}
+},
+"music_icon":
+{
+	"frame": {"x":1548,"y":1643,"w":115,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":137},
+	"sourceSize": {"w":115,"h":137}
+},
+"no_button":
+{
+	"frame": {"x":1089,"y":1707,"w":154,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":100},
+	"sourceSize": {"w":154,"h":100}
+},
+"pause_button":
+{
+	"frame": {"x":1665,"y":1643,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"pause_menu_box":
+{
+	"frame": {"x":1,"y":1,"w":898,"h":1244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":898,"h":1244},
+	"sourceSize": {"w":898,"h":1244}
+},
+"pause_menu_button":
+{
+	"frame": {"x":901,"y":817,"w":784,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":784,"h":224},
+	"sourceSize": {"w":784,"h":224}
+},
+"price_box":
+{
+	"frame": {"x":1395,"y":1183,"w":244,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":107},
+	"sourceSize": {"w":244,"h":107}
+},
+"sound_icon":
+{
+	"frame": {"x":1641,"y":1237,"w":180,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":130},
+	"sourceSize": {"w":180,"h":130}
+},
+"tutorial_hand":
+{
+	"frame": {"x":1687,"y":817,"w":142,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":261},
+	"sourceSize": {"w":142,"h":261}
+},
+"x_icon":
+{
+	"frame": {"x":1728,"y":1369,"w":108,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":115},
+	"sourceSize": {"w":108,"h":115}
+},
+"yes_button":
+{
+	"frame": {"x":901,"y":1707,"w":186,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":98},
+	"sourceSize": {"w":186,"h":98}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "menus_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1837,"h":1810},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:452a56dad1fbc9b0239256f8f7914f96:8aa41ffacfa54ef2896539109e0ab470:836c938f19b262246dd6db82df284cca$"
+}
+}

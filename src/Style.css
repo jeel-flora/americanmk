@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'BigNoodleTitling';
+  src: url('../public/Font/big_noodle_titling.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BigNoodleTitling';
+  src: url('../public//Font/big_noodle_titling_oblique.ttf');
+  font-weight: normal;
+  font-style: oblique;
+}
+@font-face {
+  font-family: 'ZenTokyoZoo';
+  src: url('../public/Font/ZenTokyoZoo-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-Light.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-SemiBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-ExtraBold.ttf');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/Font/Roboto/Roboto-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+}
+

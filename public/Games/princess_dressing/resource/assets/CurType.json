@@ -1,0 +1,15 @@
+{
+"mc": {
+	"CurType": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"CurType0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"CurType0000":{"x":0,"y":0,"w":67,"h":57}
+}
+}

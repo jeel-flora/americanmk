@@ -1,0 +1,17 @@
+{
+"mc": {
+	"sweetygamelogo": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"sweetygamelogo0000","x":-68.95,"y":-16.85},
+			{"res":"sweetygamelogo0001","x":-72.95,"y":-21.85,"duration":3}
+		]
+	}
+},
+"res": {
+	"sweetygamelogo0000":{"x":0,"y":0,"w":139,"h":35},
+	"sweetygamelogo0001":{"x":0,"y":35,"w":151,"h":43}
+}
+}

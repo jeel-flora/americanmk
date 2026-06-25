@@ -1,0 +1,174 @@
+<html>
+
+<head>
+    <meta name="title" content="Car Traffic King">
+    <meta name="description" content="">
+    <meta name="revisit-after" content="1 day">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://games.vancedgames.com/games/car_traffic_king/index.html">
+    <meta property="og:title" content="Car Traffic King">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://api.vancedgames.com/Gamezone/Banners/Preview/64defb0e149c659977410159.jpg">
+</head>
+
+<body>
+
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Car Traffic King</title>
+    <script type="text/javascript">
+        document.domain = 'aibrowser.net'
+    </script>
+    <!-- Standardised web app manifest -->
+    <link rel="manifest" href="app.manifest">
+
+    <!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+
+
+    <!-- All margins and padding must be zero for the canvas to fill the screen. -->
+    <style type="text/css">
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        html,
+        body {
+            background: #000;
+            color: #fff;
+            overflow: hidden;
+            touch-action: none;
+            -ms-touch-action: none;
+        }
+
+        canvas {
+            touch-action-delay: none;
+            touch-action: none;
+            -ms-touch-action: none;
+        }
+    </style>
+
+
+    <script>
+        var eventsToFire = {};
+
+        function registerEvent(eventName, callback, args) {
+            if (typeof(eventsToFire) == 'undefined') return false;
+            if (typeof(eventName) != 'string') return false;
+            if (typeof(callback) != 'function' && typeof(callback) != 'string') return false;
+            if (typeof(eventsToFire[eventName]) == 'undefined') eventsToFire[eventName] = [];
+            eventsToFire[eventName].push({
+                "func": callback,
+                "args": args
+            });
+            return true;
+        }
+
+        function fireEvent(eventName) {
+            if (typeof(eventName) != 'string') return false;
+            if (typeof(eventsToFire) == 'undefined') return false;
+            if (typeof(eventsToFire[eventName]) == 'undefined') return false;
+            for (var i = 0; i < eventsToFire[eventName].length; i++) {
+                eventsToFire[eventName][i]["func"](eventsToFire[eventName][i]["args"]);
+            }
+            return true;
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+
+    <script>
+        // Issue a warning if trying to preview an exported project on disk.
+        (function() {
+            // Check for running exported on file protocol
+            if (window.location.protocol.substr(0, 4) === "file") {
+                alert("Exported games won't work until you upload them. (When running on the file:/// protocol, browsers block many features from working for security reasons.)");
+            }
+        })();
+    </script>
+
+    <!-- The canvas must be inside a div called c2canvasdiv -->
+    <div id="c2canvasdiv">
+
+        <!-- The canvas the project will render to.  If you change its ID, don't forget to change the
+		ID the runtime looks for in the jQuery events above (ready() and cr_sizeCanvas()). -->
+        <canvas id="c2canvas" width="510" height="907">
+			<!-- This text is displayed if the visitor's browser does not support HTML5.
+			You can change it, but it is a good idea to link to a description of a browser
+			and provide some links to download some popular HTML5-compatible browsers. -->
+			<h1>Your browser does not appear to support HTML5.  Try upgrading your browser to the latest version.  <a href="http://www.whatbrowser.org">What is a browser?</a>
+			<br><br><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Microsoft Internet Explorer</a><br>
+			<a href="http://www.mozilla.com/firefox/">Mozilla Firefox</a><br>
+			<a href="http://www.google.com/chrome/">Google Chrome</a><br>
+			<a href="http://www.apple.com/safari/download/">Apple Safari</a><br>
+			<a href="http://www.google.com/chromeframe">Google Chrome Frame for Internet Explorer</a><br></h1>
+		</canvas>
+
+    </div>
+
+    <!-- ADS -->
+    <script>
+        var gameIsPortrait = true;
+    </script>
+
+
+    <div id="rotator" style="display:none;">
+
+    </div>
+
+    <link rel="stylesheet" type="text/css" href="landingAds.css">
+    <span id="buttonPlayContainer" class="widthHeight100"> 
+	<button type="button" class="buttonPlayCustom2" id="buttonPlay">
+		<span>Play</span>
+    </button>
+    </span>
+    <div id="mainContainer" class="widthHeight100" style="display:none">
+
+        <div id="adContainer" class="widthHeight100">
+
+            <div class="titleAndAdHolder" id="titleTimer" style="display:none">
+                <p id="adTitle" style="position:absolute;">
+                    <span id="firstAdText">Ad - will close in</span>&nbsp;
+                    <span id="Ad_timer">15</span>
+                    <span id="lastAdText">s</span>
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="jquery-2.1.1.min.js"></script>
+
+    <div class="containerProgressBar" id="containerProgressBar">
+        <div class="progressBar" id="progressBar"></div>
+    </div>
+
+    <script>
+        var showInterDFP = true;
+    </script>
+    <script>
+        var GGTrackerTimerTime = 60;
+        var GGTrackerTimer;
+        var GGATrackerActive = true;
+
+
+        setInterval(function() {
+            if (typeof(ga) != 'undefined' && GGATrackerActive) {
+                ga('send', 'event', 'games', 'minute Played', 'solitaireDeluxe');
+            }
+        }, 60000);
+    </script>
+
+
+
+    <script type="text/javascript" src="landingAds.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,215 @@
+{
+  "HD": [
+    {
+      "type": "atlasJSONHash",
+      "key": "game",
+      "textureURL": "assets/images/atlas/game_hd.png",
+      "atlasURL": "assets/data/atlas/game_hd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "menus",
+      "textureURL": "assets/images/atlas/menus_hd.png",
+      "atlasURL": "assets/data/atlas/menus_hd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "select_character_screen",
+      "textureURL": "assets/images/atlas/select_character_screen_hd.png",
+      "atlasURL": "assets/data/atlas/select_character_screen_hd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "splash-screen-top",
+      "textureURL": "assets/images/atlas/splash-screen-top_hd.png",
+      "atlasURL": "assets/data/atlas/splash-screen-top_hd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "splash-screen",
+      "textureURL": "assets/images/atlas/splash-screen_hd.png",
+      "atlasURL": "assets/data/atlas/splash-screen_hd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "uncompressed",
+      "textureURL": "assets/images/atlas/uncompressed_hd.png",
+      "atlasURL": "assets/data/atlas/uncompressed_hd.json",
+      "atlasData": null
+    }
+  ],
+  "MD": [
+    {
+      "type": "atlasJSONHash",
+      "key": "game",
+      "textureURL": "assets/images/atlas/game_md.png",
+      "atlasURL": "assets/data/atlas/game_md.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "menus",
+      "textureURL": "assets/images/atlas/menus_md.png",
+      "atlasURL": "assets/data/atlas/menus_md.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "select_character_screen",
+      "textureURL": "assets/images/atlas/select_character_screen_md.png",
+      "atlasURL": "assets/data/atlas/select_character_screen_md.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "splash-screen-top",
+      "textureURL": "assets/images/atlas/splash-screen-top_md.png",
+      "atlasURL": "assets/data/atlas/splash-screen-top_md.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "splash-screen",
+      "textureURL": "assets/images/atlas/splash-screen_md.png",
+      "atlasURL": "assets/data/atlas/splash-screen_md.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "uncompressed",
+      "textureURL": "assets/images/atlas/uncompressed_md.png",
+      "atlasURL": "assets/data/atlas/uncompressed_md.json",
+      "atlasData": null
+    }
+  ],
+  "SD": [
+    {
+      "type": "atlasJSONHash",
+      "key": "game",
+      "textureURL": "assets/images/atlas/game_sd.png",
+      "atlasURL": "assets/data/atlas/game_sd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "menus",
+      "textureURL": "assets/images/atlas/menus_sd.png",
+      "atlasURL": "assets/data/atlas/menus_sd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "select_character_screen",
+      "textureURL": "assets/images/atlas/select_character_screen_sd.png",
+      "atlasURL": "assets/data/atlas/select_character_screen_sd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "splash-screen-top",
+      "textureURL": "assets/images/atlas/splash-screen-top_sd.png",
+      "atlasURL": "assets/data/atlas/splash-screen-top_sd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "splash-screen",
+      "textureURL": "assets/images/atlas/splash-screen_sd.png",
+      "atlasURL": "assets/data/atlas/splash-screen_sd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "uncompressed",
+      "textureURL": "assets/images/atlas/uncompressed_sd.png",
+      "atlasURL": "assets/data/atlas/uncompressed_sd.json",
+      "atlasData": null
+    }
+  ],
+  "Load_HD": [
+    {
+      "type": "atlasJSONHash",
+      "key": "loadbg",
+      "textureURL": "assets/images/atlas/loadbg_hd.png",
+      "atlasURL": "assets/data/atlas/loadbg_hd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "load",
+      "textureURL": "assets/images/atlas/load_hd.png",
+      "atlasURL": "assets/data/atlas/load_hd.json",
+      "atlasData": null
+    }
+  ],
+  "Load_MD": [
+    {
+      "type": "atlasJSONHash",
+      "key": "loadbg",
+      "textureURL": "assets/images/atlas/loadbg_md.png",
+      "atlasURL": "assets/data/atlas/loadbg_md.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "load",
+      "textureURL": "assets/images/atlas/load_md.png",
+      "atlasURL": "assets/data/atlas/load_md.json",
+      "atlasData": null
+    }
+  ],
+  "Load_SD": [
+    {
+      "type": "atlasJSONHash",
+      "key": "loadbg",
+      "textureURL": "assets/images/atlas/loadbg_sd.png",
+      "atlasURL": "assets/data/atlas/loadbg_sd.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "load",
+      "textureURL": "assets/images/atlas/load_sd.png",
+      "atlasURL": "assets/data/atlas/load_sd.json",
+      "atlasData": null
+    }
+  ],
+  "Audio": [
+    {
+      "type": "audiosprite",
+      "key": "main",
+      "urls": [
+        "assets/audio/audiosprite/main.mp3",
+        "assets/audio/audiosprite/main.ogg"
+      ],
+      "jsonURL": "assets/data/audiosprite/main.json",
+      "jsonData": null,
+      "autoDecode": true
+    }
+  ],
+  "Bitmapfonts": [
+    {
+      "type": "bitmapFont",
+      "key": "gumball_font-export",
+      "textureURL": "assets/bitmapfonts/gumball_font-export.png",
+      "atlasURL": "assets/data/bitmapfonts/gumball_font-export.xml",
+      "atlasData": null,
+      "xSpacing": 0,
+      "ySpacing": 0
+    },
+    {
+      "type": "bitmapFont",
+      "key": "gumball_stroke_font-export",
+      "textureURL": "assets/bitmapfonts/gumball_stroke_font-export.png",
+      "atlasURL": "assets/data/bitmapfonts/gumball_stroke_font-export.xml",
+      "atlasData": null,
+      "xSpacing": 0,
+      "ySpacing": 0
+    }
+  ]
+}

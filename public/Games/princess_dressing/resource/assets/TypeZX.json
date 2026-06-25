@@ -1,0 +1,15 @@
+{
+"mc": {
+	"TypeZX": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"TypeZX0000","x":0,"y":0.35}
+		]
+	}
+},
+"res": {
+	"TypeZX0000":{"x":0,"y":0,"w":33,"h":33}
+}
+}

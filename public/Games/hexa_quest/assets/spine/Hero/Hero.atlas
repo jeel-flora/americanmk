@@ -1,0 +1,202 @@
+
+Hero.png
+size: 235,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_2
+  rotate: true
+  xy: 202, 11
+  size: 20, 24
+  orig: 22, 26
+  offset: 1, 1
+  index: -1
+Arm_1
+  rotate: true
+  xy: 147, 2
+  size: 23, 22
+  orig: 25, 24
+  offset: 1, 1
+  index: -1
+Arrow
+  rotate: true
+  xy: 175, 69
+  size: 107, 20
+  orig: 109, 22
+  offset: 1, 1
+  index: -1
+BODY_2
+  rotate: false
+  xy: 177, 200
+  size: 52, 65
+  orig: 54, 67
+  offset: 1, 1
+  index: -1
+BROW
+  rotate: false
+  xy: 170, 58
+  size: 20, 9
+  orig: 22, 11
+  offset: 1, 1
+  index: -1
+Bow_1
+  rotate: false
+  xy: 197, 85
+  size: 30, 44
+  orig: 32, 46
+  offset: 1, 1
+  index: -1
+Bow_2
+  rotate: true
+  xy: 177, 185
+  size: 13, 56
+  orig: 15, 58
+  offset: 1, 1
+  index: -1
+Bow_3
+  rotate: false
+  xy: 139, 58
+  size: 29, 43
+  orig: 31, 45
+  offset: 1, 1
+  index: -1
+EYE
+  rotate: false
+  xy: 23, 4
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+FACE
+  rotate: false
+  xy: 2, 21
+  size: 65, 76
+  orig: 67, 78
+  offset: 1, 1
+  index: -1
+Fire_Sword
+  rotate: true
+  xy: 76, 63
+  size: 44, 61
+  orig: 46, 63
+  offset: 1, 1
+  index: -1
+Foot
+  rotate: false
+  xy: 171, 2
+  size: 22, 23
+  orig: 24, 27
+  offset: 1, 1
+  index: -1
+HAND_1
+  rotate: false
+  xy: 140, 103
+  size: 33, 73
+  orig: 35, 75
+  offset: 1, 1
+  index: -1
+HAND_2
+  rotate: false
+  xy: 202, 33
+  size: 22, 25
+  orig: 24, 27
+  offset: 1, 1
+  index: -1
+HAND_4
+  rotate: false
+  xy: 197, 131
+  size: 33, 52
+  orig: 35, 54
+  offset: 1, 1
+  index: -1
+HAND_ARCH
+  rotate: false
+  xy: 122, 2
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+Healing_plus
+  rotate: true
+  xy: 197, 60
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Hero_HEAD_Side
+  rotate: false
+  xy: 2, 99
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+IRIS
+  rotate: false
+  xy: 54, 9
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+MOUTH
+  rotate: false
+  xy: 177, 178
+  size: 14, 5
+  orig: 18, 9
+  offset: 1, 2
+  index: -1
+MOUTH_angry
+  rotate: false
+  xy: 39, 7
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: true
+  xy: 2, 3
+  size: 16, 19
+  orig: 18, 21
+  offset: 1, 1
+  index: -1
+SHIELD
+  rotate: false
+  xy: 76, 109
+  size: 62, 67
+  orig: 64, 70
+  offset: 1, 1
+  index: -1
+SHOULDER_GARD
+  rotate: true
+  xy: 152, 27
+  size: 29, 24
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+SLASH
+  rotate: false
+  xy: 2, 178
+  size: 173, 87
+  orig: 175, 89
+  offset: 1, 1
+  index: -1
+Shoulder
+  rotate: false
+  xy: 122, 27
+  size: 28, 29
+  orig: 30, 31
+  offset: 1, 1
+  index: -1
+TELO
+  rotate: false
+  xy: 69, 13
+  size: 51, 48
+  orig: 53, 50
+  offset: 1, 1
+  index: -1
+Thigh
+  rotate: false
+  xy: 178, 27
+  size: 22, 29
+  orig: 24, 31
+  offset: 1, 1
+  index: -1

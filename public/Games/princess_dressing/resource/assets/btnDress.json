@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnDress": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnDress0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"btnDress0000":{"x":0,"y":0,"w":55,"h":55}
+}
+}

@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnTop": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnTop0000","x":-7,"y":-7}
+		]
+	}
+},
+"res": {
+	"btnTop0000":{"x":0,"y":0,"w":46,"h":41}
+}
+}

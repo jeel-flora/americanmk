@@ -1,0 +1,15 @@
+{
+"mc": {
+	"btnUp": {
+		"frameRate":25,
+		"labels": [
+		],
+		"frames": [
+			{"res":"btnUp0000","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"btnUp0000":{"x":0,"y":0,"w":69,"h":36}
+}
+}
