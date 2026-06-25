@@ -7,7 +7,7 @@ import ReactGA from "react-ga4";
 import { BrowserRouter } from 'react-router-dom';
 import { HelmetProvider } from "react-helmet-async";
 
-// ReactGA.initialize("G-H2R6DSR8R2");
+ReactGA.initialize("G-KB0QZ8X5T8");
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
